@@ -1,5 +1,5 @@
 # 🦖 About Me:
-💁🏼   Future senior frontend developer<br><br>💡   Improving my skills in React and JS<br><br>🛠️   I am looking for colleagues to exchange experience on<br>     creating joint projects<br><br>📸   Cat photographer<br><br>                     🇺🇦
+  <br>📸   Cat photographer<br><br>                     🇺🇦
 
 
 
